@@ -4,4 +4,4 @@
 ####  c110118121
 #####  c110118121
 ######  c110118121
-![NKUST](nkust.jpg "高科大")
+![alt NKUST](nkust.png "nkust")
