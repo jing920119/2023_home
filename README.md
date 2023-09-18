@@ -15,7 +15,6 @@
 
 
 ```ruby
-def index
-  puts "hello world"
-end
+Py = "Python Highlights Syntax"
+print(Py)
 ``` 
