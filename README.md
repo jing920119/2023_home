@@ -11,3 +11,11 @@
 - [x] 選項三
 - [x] 選項四
 - [x] 選項五
+
+
+
+```ruby
+def index
+  puts "hello world"
+end
+``` 
