@@ -14,7 +14,7 @@
 
 
 
-```ruby
+```python
 Py = "Python Highlights Syntax"
 print(Py)
 ``` 
