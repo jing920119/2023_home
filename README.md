@@ -39,3 +39,12 @@ alert(s)
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+
+| Command | ~~Don't do this title~~ |
+| --- | --- |
+| `point` |  *斜體* 在這裡喔 |
+| `two point` | 這就是 **粗體**  |
+
+
+---
