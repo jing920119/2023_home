@@ -23,7 +23,11 @@ gantt
 ---
 # PERT圖
 
+![image](https://github.com/jing920119/C110118121/assets/144665311/96b48e82-1781-45cc-a76b-7f0a820ba88e)
+
 
 
 ---
 # 關鍵路徑
+
+1 → 2 → 4 → 6 → 9 → 11
