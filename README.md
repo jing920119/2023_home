@@ -82,3 +82,5 @@ alert(s)
 
 喜歡的顏色 `#bedcf7`
 `rgb(9, 105, 218)`
+
+[參考網址](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
