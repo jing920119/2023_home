@@ -32,7 +32,9 @@ alert(s)
 >But now you're going to leave with nothing but a sign
 >Another evening I'll be sitting reading in between your lines
 >Because I miss you all the time
+
 ---
+
 | Left-aligned靠左 | Center-aligned置中 | Right-aligned靠右 |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
