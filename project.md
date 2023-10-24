@@ -11,9 +11,9 @@ gantt
     Task in sec      :2014-01-12  , 12d
     anther task      : 24d
     section 查詢相關論文
-    Task in sec      :2014-01-12  , 12d
-    anther task      : 20d
-    section 
+    Task in sec      :2014-01-12  , 24d
+    anther task      : 30d
+    section 設計
     Task in sec      :2014-01-12  , 12d
     anther task      : 24d
 ```
