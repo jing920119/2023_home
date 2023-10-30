@@ -1,3 +1,4 @@
+```java
 
 
 class CShape {
@@ -38,3 +39,5 @@ public class Main {
         System.out.println("三角形的面积为: " + area);
     }
 }
+
+```
